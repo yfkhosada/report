@@ -1,6 +1,6 @@
 # weekly report
 
-2018/11/04  
+2018/11/06  
 
 - hoge  
     - fuga  
